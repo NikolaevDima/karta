@@ -7,6 +7,7 @@
   
 </head>
 <body>
+  <a href="https://vk.com/id168045670">ВК</a>.
   <h2>Николаев<h2>
    <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
