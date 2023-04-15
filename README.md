@@ -3,7 +3,12 @@
 <head>
 <meta charset="utf-8" />
   
- <!-- Yandex.Metrika counter -->
+
+  
+</head>
+<body>
+  aaa
+   <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();
@@ -20,9 +25,5 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/93058624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-  
-</head>
-<body>
-  aaa
   <h1>aaa</h1>
 </body>
